@@ -1,0 +1,6 @@
+To start xampp using command line:
+sudo /opt/lampp/./manager-linux-x64.run
+
+--> file retrieve
+--> any
+--> multer filter (to restrict file size)
